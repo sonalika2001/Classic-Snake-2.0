@@ -1,16 +1,4 @@
-# snake_game
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Classic-Snake-2.0
+Missing the Nokia Snake Game? Introducting the all new Classic Snake Game 2.0 :heart:
+<br>
+The Snake can now go through walls! Game Over when it crashes into itself :wink:
